@@ -37,4 +37,4 @@ Churn: A binary column indicating whether the customer has churned (0 for retain
 Software used:
 Talend Data Prep – To perform data preprocessing
 Talend Data Integration – To integrate the dataset
-SAS e-Miner – To built model like Decision tree
+SAS e-Miner – To handle missing value and built model like Decision tree
